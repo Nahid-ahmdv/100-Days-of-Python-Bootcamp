@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Band Name Generator](https://github.com/Nahid-ahmdv/100-Days-of-Python-Bootcamp/tree/main/Day01)
+- Solution URL: [Band Name Generator](https://github.com/Nahid-ahmdv/100-Days-of-Python-Bootcamp/tree/master/Day01)
 
 ## Notes
 
